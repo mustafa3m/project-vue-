@@ -79,6 +79,8 @@ export default {
 
 .container-slides {
   display: flex;
+  min-width: 100%;
+  max-width: 100%;
 }
 
 .img-slider {
