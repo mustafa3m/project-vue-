@@ -80,12 +80,13 @@ export default {
 
 .container-slides {
   display: flex;
-  min-width: 100%;
-  max-width: 100%;
+ 
 }
 
 .img-slider {
-  width: 100%;
+  /* width: 100%; */
+  min-width: 100%;
+  max-width: 100%;
 }
 
 .btn {
