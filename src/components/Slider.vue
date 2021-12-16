@@ -4,11 +4,9 @@
     <div
       class="container-slides"
       :style="{
-        transform: ` translateX(${index}%)`,
-        transition: ` ${transition}`,
-      }
-
-    >
+        transform: `translateX(${index}%)`,
+        transition: `${transition}`,
+      }" >
       <img
         v-for="(slide, index) in slides"
         :key="index"
