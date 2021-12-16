@@ -4,7 +4,7 @@
     <div
       class="container-slides"
       :style="{
-        transform: `translateX(${index}%)`,
+        transform: ` translateX(${index}%)`,
         transition: `${transition}`,
       }" >
       <img
