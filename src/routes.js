@@ -1,8 +1,7 @@
-import Home from './views/Home.vue';
+import Home from "./views/Home.vue";
 import Contact from "./components/Contact.vue";
 import Slider from "./components/Slider.vue";
 import Todo from "./components/Todo.vue";
-
 
 /* 
 	"param" 			:test
